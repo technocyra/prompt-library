@@ -113,16 +113,16 @@ Tasks to be executed
 
 ## Contexto
 
-* Voy a desarrollar un kit de marca para una empresa de manufacturas y reparación de: Bolsos, maletines, morrales, ropa, lencería y demás accesorios que se puedan fabricar y reparar en máquinas de coser.  
-* La empresa se llama “ORION” y está ubicada en la ciudad de Santiago de Cali, Valle del Cauca, Colombia.  
-* La empresa “ORION”, a pesar de su trayectoria no cuenta con ningún tipo de presencia digital, de ahí la necesidad de crear un kit de marca.
+* Voy a desarrollar un kit de marca para una empresa de desarrollo de software y soluciones tecnologicas.  
+* La empresa se llama “TECHNOCYRA” y cuenta con dos sedes, una en Santa Fe de Bogota, Cundinamarca y la otra en Santiago de Cali, Valle del Cauca, Colombia.  
+* La empresa “TECHNOCYRA” planea dar inicio a una robusta campaña de marketing, de ahi la necesidad de un kit de marca solido y consistente.
 
 ## Parámetros
 
 * Actúa como un diseñador experto en creación de kits de marca, contenido y marketing digital.  
 * El output de este kit de marca debe ser en Español.  
 * El output debe ser generado en formato html con estilos en formato css y en archivos separados.  
-* Visualizaremos modo oscuro y modo claro por lo tanto crearás un solo html y dos hojas de estilo usando la paleta que te proporcionare mas adelante, una para modo claro y otra para modo oscuro, no debes generar JS ni ningún otro tipo de script, solo un html y dos hojas css separadas..  
+* Visualizaremos modo oscuro y modo claro por lo tanto crearás un solo html y dos hojas de estilo usando la paleta que te proporcionare mas adelante, una para modo claro y otra para modo oscuro, no debes generar JS ni ningún otro tipo de script, solo un html y dos hojas css separadas.  
 * El documento sólo será visualizado en laptops entonces no te preocupes por responsividad, más si debe verse bien al ser exportado a pdf desde el navegador web Google Chrome.
 
 ## Tareas a ejecutar
@@ -130,19 +130,27 @@ Tasks to be executed
 * Genera un kit de marca que contenga los siguientes elementos:  
   * Introducción:  
     * Propósito del kit de marca.  
-    * Acerca de la marca: Nace en santiago de Cali y lleva más de 40 años en el mercado, en esta parte debes elaborar un texto sólido y atractivo que vaya de acuerdo con nuestros valores y principios.  
-    * Nuestra misión.  
+    * Acerca de la marca: Nace en Santa Fe de Bogota funadada por un aprendiz del SENA y lleva 2 años en el mercado (en esta parte debes elaborar un texto sólido y atractivo).
+    * Te proporcionare 3 valores y 3 principios Intitucionales que fundamentaran nuestro sistema y tu les daras una descripcion a cada uno de acuerdo al contexto de la industria de la tecnologia y el software.
+      * Valores Institucionales:
+        * Honestidad.
+        * Responsabilidad.
+        * Lealtad.
+      * Principios Institucionales:
+       * Legalidad.
+       * Adaptabilidad.
+       * Innovacion.
+    * Nuestra misión.
     * Nuestra visión.  
-    * Una lista de 5 valores institucionales y 5 principios institucionales de una sola palabra cada uno y con su respectiva descripción.  
-    * Crea un eslogan apropiado para acompañar el logo.  
-  * Paleta de colores: He seleccionado una paleta de colores, te proporcionaré los códigos HEX y me los devolverás siguiendo el formato:  
-    * [Nombre del color, asignarás un nombre al color, ejemplo: Azul inspirador]: hex: [#000000], rgb: [000, 000, 000], cmyk: [0%, 0%, 0%, 0%].  
-      * color1 { #bd2a33 };  
-      * color2 { #d6aa26 };  
-      * color3 { #93a31c };  
-      * color4 { #408156 };  
-      * color5 { #30374f };  
-      * color 6: #FFF.  
+    * Crea un eslogan apropiado para acompañar la marca
+  * Paleta de colores: Crea una paleta de 5 colores siguiendo los siguientes paremetros:
+    * Nuestro estilo por defecto seran modos oscuros, mas tambien debe ser posible generar un modo claro usando la misma paleta.
+    * Incluye un azul oscuro para fondos, un azul claro, un verde mas claro que oscuro, un gris, y para la tipografia general no quiero blanco total sino mas bien como un gris bien claro casi blanco.
+    * Dale un toque neon a los colores para que resalten y vibren pero que sea muy sutil.
+    * Los tonos deben inspirar tecnologia, modernidad e innovacion.
+    * Debes tener en cuenta principios de accesibilidad, como contraste etc...
+    * Dale un nombre semantico a cada color de acuerdo a los principios UI/UX.
+    * Dame los codigos HEX, RGB y CMYK de cada color.
   * Logo: El logo ya lo tengo listo, aquí genera solo la descripción del uso del logo, y deja el espacio para el logo mismo.  
     * Logo principal: Reglas de uso generales, de color, etc….  
     * Logo secundario o variaciones (la variación y el caso de uso).  
