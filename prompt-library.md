@@ -9,19 +9,19 @@
 
 # Template
 
-Context
+## Context
 
 * Context description.
 
-Parameters
+## Parameters
 
 * Parameters list.
 
-Resources
+## Resources
 
 * Resources list and how to handle them.
 
-Tasks to be executed
+## Tasks to be executed
 
 * Task description.
 
@@ -146,7 +146,6 @@ Tasks to be executed
   * Paleta de colores: Crea una paleta de 5 colores siguiendo los siguientes paremetros:
     * Nuestro estilo por defecto seran modos oscuros, mas tambien debe ser posible generar un modo claro usando la misma paleta.
     * Incluye un azul oscuro para fondos, un azul claro, un verde mas claro que oscuro, un gris, y para la tipografia general no quiero blanco total sino mas bien como un gris bien claro casi blanco.
-    * Dale un toque neon a los colores para que resalten y vibren pero que sea muy sutil.
     * Los tonos deben inspirar tecnologia, modernidad e innovacion.
     * Debes tener en cuenta principios de accesibilidad, como contraste etc...
     * Dale un nombre semantico a cada color de acuerdo a los principios UI/UX.
