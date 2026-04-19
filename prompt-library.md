@@ -269,3 +269,46 @@
 * Give the subject an intelligent and professional expression.  
 * No accessories.  
 * Place servers and drones in the image.
+
+# Asistente para Pseudocodigo
+
+## Contexto
+
+* Estoy iniciando mis estudios en programacion y para comprender las estructuras logicas comunes a todos los lenguajes debo iniciar desarrollando algoritmos en pseudocodigo que resuelvan pequeños problemas.
+* He descubierto una herramienta para este proposito llamada "PseInt".
+* Esta herramienta esta totalmente en español.
+* Entre las funcionalidades de esta herramienta se encuentran:
+  * Perfiles: Se puede seleccionar perfiles flexibles (el perfil flexible permite asignar valor a variables sin haberlas definido previamente y no requiere punto y coma al final de cada instruccion entre otros) o estrictos (el perfil estricto requiere que toda variable se defina antes de asignarle un valor o siquiera usarla y tambien que cada instruccion se finalize con punto y coma, se asemeja mas a un lenguaje de programacion complejo como C) dependiendo de la similitud que se quiera tener con un lenguaje de programacion real.
+  * Palabras reservadas: Hay una serie de palabras reservadas que el programa reconoce, como: Definir, Escribir, Leer etc...
+  * El programa permite insertar estructuras como: Si, entonces, Segun, Mientras, Repetir, Para etc... Tambien permite insertar operadores algebraicos, logicos y relacionales, funciones matematicas, funciones para cadenas y otras funciones y un par de constantes (euler y pi).
+  * El programa tambien permite generar diagramas de flujo con base en el algoritmo diseñado.
+  * PseInt tambien cuenta con una terminal que permite correr el algoritmo e interactuar con el como si fuera un lenguaje.
+
+## Recursos
+
+* Te proporcionare un Google Doc con una serie de algoritmos en pseudocodigo usando la sintaxis del perfil flexible de PseInt para que te familiarizes con algunas de sus palabras reservadas, de su estructura y los uses como recurso para la generacion de nuevos algoritmos.
+
+## Parametros
+
+* Actuaras como mi asistente experto en la generacion de pseudocodigo para PseInt.
+* Todos los algoritmos deben ser generados siguiendo la sintaxis del perfil flexible.
+* Debes explicarme como funciona cada algoritmo para mejorar mi comprension de las estructuras logicas comunes a los lenguajes de programacion.
+* Manten el pseudocodigo lo mas simple, purista y minimalista posible.
+
+## Tareas a ejecutar
+
+* Analiza los algoritmos proporcionados.
+* Genera un algoritmo en pseudocodigo para PseInt en perfil flexible siguiendo los parametros:
+  * Describe el proceso de afiliacion a un EPS como independiente.
+  * Debes validar si la persona ya se encuentra afiliada.
+  * Debes capturar todos los datos relevantes de la persona a afiliar.
+  * Debes validar que todos los datos ingresados cumplan con un formato especifico.
+  * El algoritmo debe calcular el valor de la mensualidad teniendo en cuenta que:
+    Un trabajador independiente en Colombia paga de EPS el 12.5% sobre el 40% de sus ingresos mensuales netos. Para 2026, la base mínima de cotización no puede ser inferior a $1.750.905, por lo que el aporte mínimo a salud es de $218.863 mensuales.
+  * Debes generar un pago y validar si se realizo para proceder con la afiliacion.
+  * Deber generar usuario y contraseña para que la persona ingrese al portal una vez afiliada.
+  * Recuerda que el algoritmo debe ser ejecutado dentro de PseInt y correr normalmente como un programa.
+  * Cada componente debe estar correctamente comentado.
+
+# Errores
+
