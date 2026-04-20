@@ -310,5 +310,73 @@
   * Recuerda que el algoritmo debe ser ejecutado dentro de PseInt y correr normalmente como un programa.
   * Cada componente debe estar correctamente comentado.
 
-# Errores
+# Markdown profile
+## Context
 
+* I am creating my README.md for my GitHub account.
+* I want it to be something special, modern, purist and minimalistic.
+
+## Resources
+
+* My skills so far are:
+  - Native Spanish.
+  - English C1.
+  - Linux.
+  - Git & GitHub.
+  - SCRUM.
+  - UML.
+  - Prompt Engineering.
+  - Cybersecurity.
+  - Markdown.
+  - HTML.
+  - CSS.
+  - JavaScript.
+  - APIs.
+  - Database.
+  - Python.
+  - Digital Marketing.
+  - Google cloud.
+
+## Parameters
+
+* All the output must be in english.
+* The profile is about Carlos Andres Rodriguez Ruiz, Full Stack Developer and you must present him as such.
+* Stick to the mentioned skills only, do not make up any others.
+* Do not use html, I have tried that and GitHub only renders a few elements, use only markdown, be as creative as you can with it.
+
+## Tasks to be executed
+
+* Create a document in markdown format to show as my profile in my GitHub account following these parameters:
+  * Include a header in which to include a profile picture.
+  * Create some engaging text in which you include how a permanent learner and problem solver I am.
+  * Include all my skills in a spectacular format.
+  * Use only markdown and be as creative as posible with it.
+  * finish with links to my social accounts using these that I have ready:
+    [![GitHub-Profile](https://img.shields.io/badge/GitHub-Profile-darkblue)](https://github.com/technocyra)
+    [![GitHub-Page](https://img.shields.io/badge/GitHub-Page-blue)](https://technocyra.github.io/)
+    [![WhatsApp-Chat](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/573113583866)
+    [![DailyDev-Profile](https://img.shields.io/badge/DailyDev-Profile-purple)](https://app.daily.dev/technocyra)
+    [![LinkedIn-Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/technocyra)
+    [![Discord-Channel](https://img.shields.io/badge/Discord-Channel-red)](https://discord.com/channels/1459271989750399078/1459271992069980182)
+    [![X-Profile](https://img.shields.io/badge/X-Profile-black)](https://x.com/technocyra)
+    [![Reddit-Profile](https://img.shields.io/badge/Reddit-Profile-orange)](https://www.reddit.com/user/technocyradev)
+    [![Facebook-Page](https://img.shields.io/badge/Facebook-Page-blue)](https://www.facebook.com/technocyra.dev)
+    [![Instagram-Profile](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/technocyra)
+    [![Telegram-Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://web.telegram.org/k/#@technocyrachannel)
+    [![Mastodon-Profile](https://img.shields.io/badge/Mastodon-Profile-darkblue)](https://mastodon.social/@technocyra)
+    [![Bluesky-Profile](https://img.shields.io/badge/Bluesky-Profile-lightblue)](https://bsky.app/profile/technocyra.bsky.social)
+    [![Technocyra-Blog](https://img.shields.io/badge/Technocyra-Blog-darkorange)](https://technocyra.blogspot.com)
+    [![YouTube-Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@Technocyra)
+  * Include some professional text as footer.
+
+# HTML profile
+
+# Tasks to be executed
+
+* Now give me exact the same content but following these parameters:
+  * Generate in HTML format to insert in webpages as profile card.
+  * Everything must be contained in a main div.
+  * Give inline css styles.
+  * Use the color palette: #0A192F, #3A86FF, #22C55E, #8892B0, #CCD6F6.
+  * For the profile picture use: https://i.postimg.cc/7hfFkQ7d/profile-photo.png.
+  * Give a dark mode style by default.
